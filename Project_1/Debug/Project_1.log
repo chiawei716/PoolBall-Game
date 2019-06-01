@@ -1,0 +1,16 @@
+﻿已經開始建置於 6/1/2019 6:12:48 PM。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\ACER\Downloads\期末Project\Final\計算機圖學_期末專題\Project_1\Project_1.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Project_1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Project_1.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt InputStl.cpp Project_1.cpp
+         Project_1.cpp
+     1>c:\users\acer\downloads\期末project\final\計算機圖學_期末專題\project_1\project_1.cpp(8): fatal error C1083: 無法開啟包含檔案: 'gl\GLee.h': No such file or directory
+         InputStl.cpp
+     1>c:\users\acer\downloads\期末project\final\計算機圖學_期末專題\project_1\inputstl.cpp(192): warning C4244: '正在初始化' : 將 'std::streamsize' 轉換為 'int'，由於類型不同，可能導致資料遺失
+         正在產生程式碼...
+     1>專案 "C:\Users\ACER\Downloads\期末Project\Final\計算機圖學_期末專題\Project_1\Project_1.vcxproj" (Build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:02.21
